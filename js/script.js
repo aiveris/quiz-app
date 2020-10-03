@@ -1,83 +1,83 @@
 const quizData = [
     {
-        question: '1. Kiek dienų turi rugsėjis?',
-        a: '29',
-        b: '31',
-        c: '30',
-        d: '28',
+        question: '1. Jono mama turi 4 vaikus. Pirmo vardas Pirmadienis, antro Antradienis, trečio Penktadienis. Koks ketvirto vaiko vardas?',
+        a: 'Ketvirtadienis',
+        b: 'Šeštadienis',
+        c: 'Jonas',
+        d: 'Sekmadienis',
         correct: 'c'
     },
     {
-        question: '2. Vabalas šviečiantis tamsoje?',
-        a: 'Musė',
-        b: 'Bitė',
-        c: 'Jonvabalis',
-        d: 'Tarakonas',
+        question: '2. 3 vištos per 3 dienas padėjo 3 kiaušinius. Kiek kiaušinių 12 vištų padės per 12 dienų?',
+        a: '24',
+        b: '36',
+        c: '48',
+        d: '52',
         correct: 'c'
     },
     {
-        question: '3. Kas yra Lietuvos sostinė?',
-        a: 'Kaunas',
-        b: 'Vilnius',
-        c: 'Klaipėda',
-        d: 'Ignalina',
-        correct: 'b'
-    },
-    {
-        question: '4. Kiek valandų turi savaitė?',
-        a: '108',
-        b: '58',
-        c: '250',
-        d: '168',
+        question: '3. Kokia diena buvo užvakar, jei nuo dienos, kuri bus užporyt, lieka dvi dienos iki sekmadienio?',
+        a: 'Pirmadienis',
+        b: 'Antradienis',
+        c: 'Ketvirtadienis',
+        d: 'Sekmadienis',
         correct: 'd'
     },
     {
-        question: '5. Koks yra lėlės Barbės vardas?',
-        a: 'Barbara Millicent Roberts',
-        b: 'Barbė Devindarbė',
-        c: 'Barbora Radvilaitė',
-        d: 'Barbara Straizen',
-        correct: 'a'
-    },
-    {
-        question: '6. Koks yra mažiausias paukštis pasaulyje?',
-        a: 'Varna',
-        b: 'Kolibris',
-        c: 'Žvirblis',
-        d: 'Sniegena',
-        correct: 'b'
-    },
-    {
-        question: '7. Kokia yra laumžirgio gyvenimo trukmė?',
-        a: '2 savaitės',
-        b: 'mėnesis',
-        c: 'metai',
-        d: 'para',
-        correct: 'd'
-    },
-    {
-        question: '8. Kiek raidžių Lietuvių kalbos abėcėlėje',
-        a: '32',
-        b: '24',
-        c: '34',
-        d: '28',
-        correct: 'a'
-    },
-    {
-        question: '9. Kiek širdžių turi aštuonkojis?',
+        question: '4. Gatvėje stovi 100 namų sunumeruotų nuo 1 iki 100. Kiek kartų numeruojant buvo panaudotas 9?',
         a: '10',
+        b: '11',
+        c: '20',
+        d: '21',
+        correct: 'c'
+    },
+    {
+        question: '5. Pieštukas ir trintukas kainuoja 1,10EUR. Pieštukas už trintuką brangesnis 1EUR. Kiek kainuoja trintukas?',
+        a: '20ct',
+        b: '10ct',
+        c: '5ct',
+        d: '1ct',
+        correct: 'c'
+    },
+    {
+        question: '6. Marijos tėtis turi 5 dukras: Čača, Čeča, Čiča, Čoča… Koks penktos dukros vardas?',
+        a: 'Čuča',
+        b: 'Čėča',
+        c: 'Čyča',
+        d: 'Marija',
+        correct: 'd'
+    },
+    {
+        question: '7. Tupėjo penkios varnos ant medžio. Atėjo medžiotojas ir dvi nušovė. Kiek varnų liko?',
+        a: '3',
         b: '1',
-        c: '3',
+        c: '0. Kitos nuskrido',
         d: '5',
         correct: 'c'
     },
     {
-        question: '10. Jeigu bėgi trečias ir aplenki antrą tai kelintas tu bėgi?',
-        a: '1',
-        b: '2',
-        c: '3',
-        d: '4',
-        correct: 'b'
+        question: '8. Vasarą turtingas, o žiemą plikas?',
+        a: 'Senis besmegenis',
+        b: 'Kopūstas',
+        c: 'Medis',
+        d: 'Arklys',
+        correct: 'c'
+    },
+    {
+        question: '9. A ir B atsisėdo palubėj. A nupuolė, B prapuolė, kas dar liko palubėj?',
+        a: 'A',
+        b: 'B',
+        c: '0',
+        d: 'ir',
+        correct: 'd'
+    },
+    {
+        question: '10. Dvi galvos, dvi rankos, šešios kojos, o eina keturiom?',
+        a: 'Drakonas',
+        b: 'Driežas',
+        c: 'Raitelis',
+        d: 'Kupranugaris',
+        correct: 'c'
     },
 ];
 
